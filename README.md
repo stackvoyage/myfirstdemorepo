@@ -1,2 +1,2 @@
 # myfirstdemorepo
-This is my first demo repo &lt;br>Author: Heramb Belnekar
+This is my first demo repo <br>Author: Heramb Belnekar
